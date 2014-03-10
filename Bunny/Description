@@ -1,0 +1,9 @@
+Game:
+	Bunnies vs Badgers
+
+Game description:
+	Buunny is a game where you have to defend your four castles from badger attacks
+
+
+
+22/10/13 Game completed - Bunny can shoot down badgers,castle takes damage from badger attacks, wins if timer reaches zero, loses if health reaches zero, basic sound effects have been loaded, accuracy is displayed along with win/lose screen
